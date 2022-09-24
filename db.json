@@ -1,0 +1,11 @@
+{
+  "product": [
+    {
+      "product": "saaree",
+      "category": "cloth",
+      "price": 4000,
+      "sold": false,
+      "id": 1
+    }
+  ]
+}
